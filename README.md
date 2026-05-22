@@ -16,4 +16,3 @@ npx webpack serve
 ## Learnings
 1. Webpack is quite new 
 2. There are implementations since it only reads JS and JSON
-3. Creates DIST 
